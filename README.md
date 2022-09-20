@@ -1,1 +1,1 @@
-# C-Exercises
+# University first-year solutions
